@@ -24,7 +24,7 @@ public class FriendApp {
             friend.showInfo();
         }
 
-    	
+    	addFriend.close();
     	
     }
 
